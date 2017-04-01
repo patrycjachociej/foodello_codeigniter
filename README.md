@@ -16,4 +16,4 @@ Funkcjonalności:
 + CRUD każdej z tych funkcji
 
 Wykorzystane technologie:
-HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, MySQL, AJAX
+HTML, CSS, Bootstrap, JavaScript, JQuery, CodeIniter, PHP, MySQL, AJAX
